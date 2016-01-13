@@ -1,7 +1,10 @@
 = VECNet - Open Source License
-_Alexander Vyushkov, James Domingo, Notre Dame Center for Research Computing_
+Alexander Vyushkov; James Domingo
+:author-org: Notre Dame Center for Research Computing
 
 This document describes the rationale behind the selection of +++<u>Mozilla Public License 2.0</u>+++ as the open source license for VECNet software developed by VECNet institutions.
+
+_{author}, {author_2}, {author-org}_
 
 == Current Status
 This document is a draft.
