@@ -12,11 +12,11 @@ It currently only accounts for Notre Dame’s policies, and therefore, it curren
 The policies of other VECNet institutions need to be reviewed, so this document can be updated to ensure compliance with all relevant policies.
 
 == Executive Summary
-The project’s proposal / contract requires the use of an open-source software license approved by the Open Source Initiative (+++<u>http://opensource.org/</u>+++).
-Per Notre Dame’s IP policy (+++<u>http://policy.nd.edu/policy_files/IntellectualPropertyPolicy.pdf</u>+++), the University of Notre Dame holds copyright to the software written by staff programmers at CRC.
-Therefore, project staff at ND consulted the Office of Technology Transfer (OTT, +++<u>http://ott.nd.edu/</u>+++), whose mission includes “providing guidance in matters relating to University Intellectual Property”.
+The project’s proposal / contract requires the use of an open-source software license approved by the Open Source Initiative (http://opensource.org/).
+Per Notre Dame’s IP policy (http://policy.nd.edu/policy_files/IntellectualPropertyPolicy.pdf), the University of Notre Dame holds copyright to the software written by staff programmers at CRC.
+Therefore, project staff at ND consulted the Office of Technology Transfer (OTT, http://ott.nd.edu/), whose mission includes “providing guidance in matters relating to University Intellectual Property”.
 
-Per OTT’s guidance, the project leadership at ND should choose among the OSI’s list of Popular Licenses (+++<u>http://opensource.org/licenses</u>+++) since VECNet is a new project (as opposed to contributing software to an existing open-source project which already has a license).
+Per OTT’s guidance, the project leadership at ND should choose among the OSI’s list of Popular Licenses (http://opensource.org/licenses) since VECNet is a new project (as opposed to contributing software to an existing open-source project which already has a license).
 The list contains 7 popular, widely-used licenses and 2 licenses with strong, active communities.
 Since VECNet software is not part of either of the latter two communities, then its license should be one from the 7 popular licenses.
 
