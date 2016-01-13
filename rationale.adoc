@@ -1,6 +1,16 @@
 = VECNet - Open Source License
 Alexander Vyushkov; James Domingo
 :author-org: Notre Dame Center for Research Computing
+// URLs
+:Eclipse: http://eclipse.org/
+:MPL-2: http://www.mozilla.org/MPL/2.0/
+:LGPL-3: http://www.gnu.org/licenses/lgpl.html
+:GPL-3: http://www.gnu.org/licenses/gpl-3.0.html
+:licensing-guide: http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002598
+:OSI-categories: http://opensource.org/licenses/category
+:OSI-licenses: http://opensource.org/licenses
+:OSI-proliferation: http://opensource.org/proliferation-report
+
 
 This document describes the rationale behind the selection of +++<u>Mozilla Public License 2.0</u>+++ as the open source license for VECNet software developed by VECNet institutions.
 
@@ -38,8 +48,8 @@ In the spirit of keeping our work (our source code) as broadly and publicly avai
 This type of license will require external developers that modify VECNet software and distribute it, to contribute their VECNet modifications back to the project, thus ensuring these modifications continue to benefit the public.
 
 Either one of the two Limited Reciprocal licenses (LGPL or MPL) would be satisfactory/ acceptable for the project.
-We recommend +++<u>MPL 2.0</u>+++ because it is much shorter and simpler to understand, than +++<u>LGPLv3</u>+++.
-LGLPv3 is “a set of additional permissions added to +++<u>version 3 of the GNU General Public License</u>+++”, so the GPLv3 has to be distributed with LGPLv3.
+We recommend {MPL-2}[MPL 2.0] because it is much shorter and simpler to understand, than {LGPL-3}[LGPLv3].
+LGLPv3 is “a set of additional permissions added to {GPL-3}[version 3 of the GNU General Public License]”, so the GPLv3 has to be distributed with LGPLv3.
 Furthermore, Lindberg recommends MPL because:
 
 _“The careful wording and excellent legal work that went into the MPL make it a good choice for open source licensing in a corporate context.” (pg 211)_
@@ -55,11 +65,11 @@ Additional information that expands on stuff presented in the executive summary.
 
 === OSI’s Popular Licenses
 The Open Source Initiative (OSI) approves licenses for open-source software.
-Approved licenses are grouped into +++<u>several categories</u>+++.
+Approved licenses are grouped into {OSI-categories}[several categories].
 The categories were developed by OSI's License Proliferation Committee because it “... _thought that these more descriptive categories would help people initially picking a license to use one of the more popular licenses, thereby helping to reduce the numbers of different licenses commonly used._”
 
 
-Accordingly, the licenses in the popular category are also listed on +++<u>OSI’s license home page</u>+++:
+Accordingly, the licenses in the popular category are also listed on {OSI-licenses}[OSI’s license home page]:
 
 
 |===
@@ -73,7 +83,7 @@ Accordingly, the licenses in the popular category are also listed on +++<u>OSI�
 |===
 
 
-In its 2006 +++<u>License Proliferation Report</u>+++, the committee explained why popularity was considered a category:
+In its 2006 {OSI-proliferation}[License Proliferation Report], the committee explained why popularity was considered a category:
 
 _“While it might at first sight not seem appropriate for the popularity of a license to be significant in categorizing it, popular and long-established licenses have an important thing going for them: the existence of an established interpretive tradition and a well-developed set of expectations about correct behavior with respect to them.
 This is significant in reducing confusion and (especially in common-law countries) is even likely to condition judicial interpretation of the licenses.”_
@@ -83,7 +93,7 @@ We believed that there were a few licenses that, while not the most popular, wer
 The few licenses "with strong communities" are the Common Development and Distribution License (CDDL) and the Eclipse Public License (EPL).
 
 The CDDL was developed by Sun Microsystems in 2004, and is used by various open- source projects that originated at Sun, e.g., OpenSolaris (operating system), NetBeans (IDE), GlassFish (Java application server).
-The Eclipse Public License (EPL) is used within the +++<u>Eclipse community</u>+++, which formed in 2001 when IBM released the source code for its Eclipse IDE under the Common Public License (CPL).
+The Eclipse Public License (EPL) is used within the {Eclipse}[Eclipse community], which formed in 2001 when IBM released the source code for its Eclipse IDE under the Common Public License (CPL).
 Initially, the project was stewarded by the Eclipse Consortium.
 In 2004, the Eclipse Foundation replaced the consortium, and the EPL was developed to replace the CPL. +
 
@@ -100,7 +110,7 @@ The 7 popular and widely-used licenses can be grouped based on their requirement
 BSD (2-clause)
 |===
 
-The alternative names for the groups (shown in italics above) are described in this very useful article: +++<u>A Quick Guide to Software Licensing for the Scientist-Programmer</u>+++.
+The alternative names for the groups (shown in italics above) are described in this very useful article: {licensing-guide}[A Quick Guide to Software Licensing for the Scientist-Programmer].
 
 To illustrate their requirements about sharing source code, consider the scenario where one developer, Harry, has written and distributed a software library outside his organization.
 Another developer at a different organization, Sally, has written a program that uses Harry’s library.
