@@ -115,8 +115,15 @@ The 7 popular and widely-used licenses can be grouped based on their requirement
 |===
 |*Reciprocal*|*Limited Reciprocal*|*Permissive*
 
-|GPL|LGPL|Apache
+|GPL|LGPL
+
+MPL (Mozilla)|Apache
+
 BSD (2-clause)
+
+BSD (3-clause)
+
+MIT
 |===
 
 The alternative names for the groups (shown in italics above) are described in this very useful article: {licensing-guide}[A Quick Guide to Software Licensing for the Scientist-Programmer].
@@ -130,25 +137,24 @@ The license that Sally can distribute her program with depends upon which licens
 
 |===
 |If Harry distributes his library
-with this license:|*
-Reciprocal*|*Limited
-Reciprocal*|*
-Permissive*
+with this license:|*Reciprocal*|*Limited
+Reciprocal*|*Permissive*
 
-|Does Sally have to share the source code for her program?|||
+|Does Sally have to share the source code for her program?|Yes|Her decision|Her decision
+|If so, under what license?|Same|Her choice|Her choice
 |===
 
 ==== Sally modifies Harry’s code
 
 |===
 |If Harry distributes his library
-with this license:|*
-Reciprocal*|*Limited
-Reciprocal*|*
-Permissive*
+with this license:|*Reciprocal*|*Limited
+Reciprocal*|*Permissive*
 
-|Does Sally have to share the source code for *her program*?|||
-|Does Sally have to share the source code for *her changes to Harry’s library*?|||
+|Does Sally have to share the source code for *her program*?|Yes|Her decision|Her decision
+|If so, under what license?|Same|Her choice|Her choice
+|Does Sally have to share the source code for *her changes to Harry’s library*?|Yes|Yes|Her choice
+|If so, under what license?|Same|Same|Her choice
 |===
 
 === Legal Ambiguities with GPL
