@@ -73,15 +73,24 @@ Accordingly, the licenses in the popular category are also listed on {OSI-licens
 
 
 |===
-| * +++<u>Apache License 2.0</u>+++|popular and widely used
+||
+|Apache License 2.0
 
+BSD 3 Clause "New" or "Revised" license
+
+BSD 2 Clause "Simplified" or "FreeBSD" license
+
+GNU General Public License (GPL)
+
+GNU Library or "Lesser" General Public License (LGPL)
+
+MIT license
+
+Mozilla Public License 2.0|popular and widely used
+|Common Development and Distribution License
+
+Eclipse Public License|have strong communities
 |===
-
-|===
-| * +++<u>Common Development and Distribution License</u>+++|have strong communities
-
-|===
-
 
 In its 2006 {OSI-proliferation}[License Proliferation Report], the committee explained why popularity was considered a category:
 
