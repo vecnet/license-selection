@@ -42,7 +42,8 @@ In order to make a license recommendation, we consulted other project documents 
 
 In Master Collaborative Agreement (MCA), the "Data Sharing Guiding Principles" in Appendix B state:
 
-"The intent of VECNet is to create a publically available facility for analysis and dissemination of data and information about vector-borne diseases and that the results of their work should similarly be broadly and publicly available."
+[quote]
+The intent of VECNet is to create a publically available facility for analysis and dissemination of data and information about vector-borne diseases and that the results of their work should similarly be broadly and publicly available.
 
 In the spirit of keeping our work (our source code) as broadly and publicly available, we recommend a Limited Reciprocal license.
 This type of license will require external developers that modify VECNet software and distribute it, to contribute their VECNet modifications back to the project, thus ensuring these modifications continue to benefit the public.
@@ -52,11 +53,13 @@ We recommend {MPL-2}[MPL 2.0] because it is much shorter and simpler to understa
 LGLPv3 is “a set of additional permissions added to {GPL-3}[version 3 of the GNU General Public License]”, so the GPLv3 has to be distributed with LGPLv3.
 Furthermore, Lindberg recommends MPL because:
 
-_“The careful wording and excellent legal work that went into the MPL make it a good choice for open source licensing in a corporate context.” (pg 211)_
+[quote, pg 211]
+The careful wording and excellent legal work that went into the MPL make it a good choice for open source licensing in a corporate context.
 
 Note that Lindberg is talking about MPL 1.1; MPL 2.0 was a major revision in 2012 that made the license even better.  Lindberg also notes:
 
-_“In practice, the MPL is most often used for larger platform or infrastructural projects, whereas the LGPL is used for libraries and small pieces of well-defined accessory code.”  (pg 211)_
+[quote, pg 211]
+In practice, the MPL is most often used for larger platform or infrastructural projects, whereas the LGPL is used for libraries and small pieces of well-defined accessory code.
 
 Given the scale of the VecNet project, MPL is the more appropriate license.
 
@@ -94,8 +97,9 @@ Eclipse Public License|have strong communities
 
 In its 2006 {OSI-proliferation}[License Proliferation Report], the committee explained why popularity was considered a category:
 
-_“While it might at first sight not seem appropriate for the popularity of a license to be significant in categorizing it, popular and long-established licenses have an important thing going for them: the existence of an established interpretive tradition and a well-developed set of expectations about correct behavior with respect to them.
-This is significant in reducing confusion and (especially in common-law countries) is even likely to condition judicial interpretation of the licenses.”_
+[quote]
+While it might at first sight not seem appropriate for the popularity of a license to be significant in categorizing it, popular and long-established licenses have an important thing going for them: the existence of an established interpretive tradition and a well-developed set of expectations about correct behavior with respect to them.
+This is significant in reducing confusion and (especially in common-law countries) is even likely to condition judicial interpretation of the licenses.
 
 To identify “licenses that are popular and widely used or with strong communities”, the committee “... _used statistics obtained from public sources to determine which licenses are widely used.
 We believed that there were a few licenses that, while not the most popular, were widely used within their communities and that these also belonged in this group.”_
