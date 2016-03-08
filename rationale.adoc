@@ -106,7 +106,7 @@ To identify “licenses that are popular and widely used or with strong communit
 We believed that there were a few licenses that, while not the most popular, were widely used within their communities and that these also belonged in this group.”_
 The few licenses "with strong communities" are the Common Development and Distribution License (CDDL) and the Eclipse Public License (EPL).
 
-The CDDL was developed by Sun Microsystems in 2004, and is used by various open- source projects that originated at Sun, e.g., OpenSolaris (operating system), NetBeans (IDE), GlassFish (Java application server).
+The CDDL was developed footnote:[From Mozilla Public License 1.1] by Sun Microsystems in 2004, and is used by various open- source projects that originated at Sun, e.g., OpenSolaris (operating system), NetBeans (IDE footnote:[Integrated Development Environment = set of integrated tools used by programmers to write software]), GlassFish (Java application server).
 The Eclipse Public License (EPL) is used within the {Eclipse}[Eclipse community], which formed in 2001 when IBM released the source code for its Eclipse IDE under the Common Public License (CPL).
 Initially, the project was stewarded by the Eclipse Consortium.
 In 2004, the Eclipse Foundation replaced the consortium, and the EPL was developed to replace the CPL. +
