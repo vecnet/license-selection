@@ -117,17 +117,21 @@ But in the case of VecNet, since its software is not part of either of those com
 === 3 Groups of Popular Licenses
 The 7 popular and widely-used licenses can be grouped based on their requirements for sharing source code.
 
+[cols="3*^"]
 |===
-|*Reciprocal*|*Limited Reciprocal*|*Permissive*
+|*Reciprocal* +
+_Strong Copyleft_
+|*Limited Reciprocal* +
+_Weak Copyleft_
+|*Permissive* +
+_Academic, Research_
 
-|GPL|LGPL
-
-MPL (Mozilla)|Apache
-
-BSD (2-clause)
-
-BSD (3-clause)
-
+|GPL
+|LGPL +
+MPL (Mozilla)
+|Apache +
+BSD (2-clause) +
+BSD (3-clause) +
 MIT
 |===
 
