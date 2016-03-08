@@ -40,7 +40,7 @@ The Reciprocal group was eliminated (rejected) because of legal ambiguities asso
 Both of the remaining license groups -- Limited Reciprocal and Permissive -- would be satisfactory/acceptable for the project.
 In order to make a license recommendation, we consulted other project documents for guidance.
 
-In Master Collaborative Agreement (MCA), the "Data Sharing Guiding Principles" in Appendix B state:
+In Master Collaborative Agreement (MCA), the "Data Sharing Guiding Principles" in Appendix B footnote:[Appendix B, "VECNet DATA ACCESS AND CONTRIBUTION GUIDING PRINCIPLES"] state:
 
 [quote]
 The intent of VECNet is to create a publically available facility for analysis and dissemination of data and information about vector-borne diseases and that the results of their work should similarly be broadly and publicly available.
@@ -70,6 +70,7 @@ Additional information that expands on stuff presented in the executive summary.
 The Open Source Initiative (OSI) approves licenses for open-source software.
 Approved licenses are grouped into {OSI-categories}[several categories].
 The categories were developed by OSI's License Proliferation Committee because it “... _thought that these more descriptive categories would help people initially picking a license to use one of the more popular licenses, thereby helping to reduce the numbers of different licenses commonly used._”
+footnote:[Section 4, "The Groups" in the OSI {OSI-proliferation}[License Proliferation Report]]
 
 
 Accordingly, the licenses in the popular category are also listed on {OSI-licenses}[OSI’s license home page]:
