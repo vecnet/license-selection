@@ -169,9 +169,12 @@ Reciprocal*|*Permissive*
 === Legal Ambiguities with GPL
 This section should summarize the legal ambiguities that Lindberg describes in his book (chapter 12).
 We don’t want to replicate the whole chapter; just present the key points:
+
  * Legal experts disagree whether linking to GPL code creates a derivative work under copyright law.
  ** Free Software Foundation says in GPL that it does.
  ** But Lindberg, and a Stanford law professor he cites, disagree (linking does NOT create a derivative work)
+
+'''
 
  * _“In considering the differences between the LGPLv2 and LGPLv3, the best answer is probably dual licensing under both version 2 and version 3 as discussed relative to the GPL below.” (pg 212)_
    Dual licensing means more effort to explain why there are two licenses to developers.
