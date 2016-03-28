@@ -148,9 +148,16 @@ The license that Sally can distribute her program with depends upon which licens
 with this license:|*Reciprocal*|*Limited
 Reciprocal*|*Permissive*
 
-|Does Sally have to share the source code for her program?|Yes|Her decision|Her decision
-|If so, under what license?|Same|Her choice|Her choice
+|Does Sally have to share the source code for her program?
+| {set:cellbgcolor:#FFEFC1} Yes  |
+  {set:cellbgcolor:#C5DAF0}        Her decision | Her decision
+| {set:cellbgcolor!}
+
+If so, under what license?
+| {set:cellbgcolor:#FFEFC1} Same |
+  {set:cellbgcolor:#C5DAF0}        Her choice   | Her choice
 |===
+{set:cellbgcolor!}
 
 ==== Sally modifies Harry’s code
 
@@ -159,11 +166,26 @@ Reciprocal*|*Permissive*
 with this license:|*Reciprocal*|*Limited
 Reciprocal*|*Permissive*
 
-|Does Sally have to share the source code for *her program*?|Yes|Her decision|Her decision
-|If so, under what license?|Same|Her choice|Her choice
-|Does Sally have to share the source code for *her changes to Harry’s library*?|Yes|Yes|Her choice
-|If so, under what license?|Same|Same|Her choice
+| Does Sally have to share the source code for *her program*?
+| {set:cellbgcolor:#FFEFC1} Yes  |
+  {set:cellbgcolor:#C5DAF0}        Her decision | Her decision
+| {set:cellbgcolor!}
+
+If so, under what license?
+| {set:cellbgcolor:#FFEFC1} Same |
+  {set:cellbgcolor:#C5DAF0}        Her choice   | Her choice
+| {set:cellbgcolor!}
+
+Does Sally have to share the source code for *her changes to Harry’s library*?
+| {set:cellbgcolor:#FFEFC1} Yes  | Yes          |
+  {set:cellbgcolor:#C5DAF0}                       Her decision
+| {set:cellbgcolor!}
+
+If so, under what license?
+| {set:cellbgcolor:#FFEFC1} Same | Same         |
+  {set:cellbgcolor:#C5DAF0}                       Her choice
 |===
+{set:cellbgcolor!}
 
 === Legal Ambiguities with GPL
 This section should summarize the legal ambiguities that Lindberg describes in his book (chapter 12).
