@@ -143,6 +143,7 @@ The license that Sally can distribute her program with depends upon which licens
 
 ==== Sally uses Harry’s code as is (unmodified)
 
+[cols="3,1,1,1"]
 |===
 |If Harry distributes his library
 with this license:|*Reciprocal*|*Limited
@@ -161,6 +162,7 @@ If so, under what license?
 
 ==== Sally modifies Harry’s code
 
+[cols="3,1,1,1"]
 |===
 |If Harry distributes his library
 with this license:|*Reciprocal*|*Limited
